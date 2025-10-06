@@ -26,6 +26,9 @@ Gestiona el inicio de sesión de los usuarios, valida las credenciales, y genera
 ---
 
 ## **Distribucion de Roles:**
-## **Keegan Kevin** Realizó la redaccion del ReadME completo y estructurado.
-## **Golpe David** Realizó la creacion de los diferentes diagramas con respecto a la pagina del Vivero Mia Plantas para el proyecto de finde año.
-## **Gorondon Elias** Realizó la revisión de los Diagramas y del ReadMe.
+## **Keegan Kevin**
+Realizó la redaccion del ReadME completo y estructurado.
+## **Golpe David**
+Realizó la creacion de los diferentes diagramas con respecto a la pagina del Vivero Mia Plantas para el proyecto de finde año.
+## **Gorondon Elias**
+Realizó la revisión de los Diagramas y del ReadMe.
