@@ -1,11 +1,12 @@
 # Globant
+---
 **Descripción del diagrama:**
 
 ## Interfaz de Usuario:
-Es el bloque donde los usuarios interactúan con la página web (páginas de inicio, registro, login, catálogo de productos, etc.).
+- Es el bloque donde los usuarios interactúan con la página web (páginas de inicio, registro, login, catálogo de productos, etc.).
 Los datos que el usuario introduce, como el nombre, correo o contraseña, se envían al servidor.
 
----
+
 
 ## Servidor (Backend/API):
 - Este bloque recibe las solicitudes de la interfaz de usuario y se comunica con la base de datos para recuperar o almacenar información.
