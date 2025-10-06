@@ -12,3 +12,7 @@ El servidor consulta o actualiza los datos en la base de datos según sea necesa
 Sistema de Autenticación:
 Este es un componente opcional, pero crucial en muchas páginas web.
 Gestiona el inicio de sesión de los usuarios, valida las credenciales, y genera sesiones de usuario.
+Distribucion de Roles:
+Keegan Kevin- Realizó la redaccion del ReadME completo y estructurado.
+Golpe David- Realizó la creacion de los diferentes diagramas con respecto a la pagina del Vivero Mia Plantas para el proyecto de finde año.
+Gorondon Elias- Realizó la revisión de los Diagramas y del ReadMe.
