@@ -25,7 +25,7 @@ Gestiona el inicio de sesión de los usuarios, valida las credenciales, y genera
 
 ---
 
-## **Distribucion de Roles:**
+# **Distribucion de Roles:**
 ## **Keegan Kevin**
 Realizó la redaccion del ReadME completo y estructurado.
 ## **Golpe David**
